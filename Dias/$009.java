@@ -1,7 +1,10 @@
 package edu.wellinton.desafio.Dia1;
 import java.util.Locale;
 import java.util.Scanner;
-
+/*
+Dia: 09/100
+https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
+ */
 public class $009 {
     public static void main(String[] args) {
         stairCase();
