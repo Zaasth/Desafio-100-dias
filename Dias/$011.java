@@ -3,7 +3,10 @@ import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+/*
+Dia: 11/100
+https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
+ */
 public class $011 {
     public static void main(String[] args) {
         String time12Hour = "8:30 PM"; // Coloque aqui o horário PM que você deseja converter
